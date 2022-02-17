@@ -12,4 +12,9 @@ function asNegative(n) {
   }
 }
 
+//test cases
+console.log("asNegative(3): ", asNegative(3), " should equal 3");
+console.log("asNegative(0): ", asNegative(0), " should equal 0");
+console.log("asNegative(-52): ", asNegative(-52), " should equal -52");
+
 
